@@ -1,8 +1,8 @@
 # One Line, One Laugh
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/)
-[![make.fun](https://img.shields.io/badge/make.fun-One%20Line%2C%20One%20Laugh-purple)](https://make.fun/c/u-coral-404-one-line-one-laugh-22f2c9f3)
+[![make.fun · u-coral-404-one-line-one-laugh-22f2c9f3](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
+[![rank](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/nelsenwiliam/makefun-one-line-one-laugh-2/rank.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
+[![reward](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/nelsenwiliam/makefun-one-line-one-laugh-2/reward.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
 
 A [make.fun](https://make.fun) entry for the **One Line, One Laugh** bounty:
 a tiny pure-stdlib Python program that writes one funny line to

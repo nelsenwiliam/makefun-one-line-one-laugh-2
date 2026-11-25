@@ -12,7 +12,7 @@ a tiny pure-stdlib Python program that writes one funny line to
 
 > I taught my parrot to say 'per my last email'. HR has never been faster at scheduling a meeting about me.
 
-Setup + turn, punchline last — 109 characters, inside the 200-character cap.
+Setup + turn, punchline last — 105 characters, inside the 200-character cap.
 
 ## Run
 
